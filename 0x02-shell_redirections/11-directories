@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type f | wc -l
+#!bin/bash
+Find . -type d -not -name '.' | wc -l
