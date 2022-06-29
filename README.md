@@ -1,1 +1,1 @@
-Display the content list of the current directory
+shell_variables
